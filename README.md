@@ -1,3 +1,3 @@
 # OOP-PHP
 
-This Repo contains OOP php basics.
+This Repo contains basics of Object Oriented programming in PHP.
