@@ -18,7 +18,7 @@
 
 
         //deleting an object 
-        $person2 = new Person("ayushi" ,22, "black");
+        $person2 = new Person("Ayush" ,22, "black");
         unset($person2); // deleted object by triggering the destructor inside the class
         $person2->getInfo();
 
